@@ -1,0 +1,13 @@
+ body{
+    background-color: rgb(14, 12, 12);
+}
+ 
+.one {
+    color: white;
+}
+
+.two {
+    color: white;
+    display: inline;
+
+}
